@@ -1,8 +1,7 @@
-# React + Vite
+# Login form | Authentication with Firebase
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Objective: Implement basic authentication.
 
-Currently, two official plugins are available:
+Description: Build a login form that allows users to sign in with email and password using Firebase Authentication. Show how to check the user’s authentication state.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Feature Focus: Authentication and Firebase integration.
